@@ -1,0 +1,23 @@
+{
+    "experiences": [
+      {
+        "position": "Fullstack Java/React/Typescript developer",
+        "company": "Peek & Cloppenburg GmbH - Fashion Digital GmbH & Co. KG",
+        "duration": "Oct 2022 - Jul 2023",
+        "details": [
+          "Developing the client using React/Typescript",
+          "Developing server components and providing web services using Java"
+        ]
+      },
+      {
+        "position": "Java developer",
+        "company": "Nokia - Alcatel Submarine Network",
+        "duration": "July 2022 - Sept 2022",
+        "details": [
+          "Study of needs based on High Level Specifications",
+          "Implementation of unit tests and pre-integration tests"
+        ]
+      }
+    ]
+  }
+  
