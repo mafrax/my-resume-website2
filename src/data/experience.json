@@ -4,18 +4,47 @@
         "position": "Fullstack Java/React/Typescript developer",
         "company": "Peek & Cloppenburg GmbH - Fashion Digital GmbH & Co. KG",
         "duration": "Oct 2022 - Jul 2023",
+        "description": "Fashion Digital GmbH & Co. KG is the central solution provider for information technology of the P&C group. Fashion Digital plans, develops and operates all aspects of information technology ranging from network infrastructure over classic back-end-systems to the latest digital technology and all required services. I was responsible for the operation and further development of the CRM system of the P&C group. This involved conceiving, developing, and operating new and existing features, as well as providing consultation to product owners in the conception and planning of new features.",
         "details": [
           "Developing the client using React/Typescript",
-          "Developing server components and providing web services using Java"
+          "Developing server components and providing web services using Java",
+          "Migrating interfaces to SAP Retail from SOAP to Kafka",
+          "Evaluating new functionalities",
+          "Gathering requirements from the purchasing department",
+          "Working on the design and creation of component and integration tests",
+          "Developing and customizing build processes including test automation"
         ]
       },
       {
         "position": "Java developer",
         "company": "Nokia - Alcatel Submarine Network",
         "duration": "July 2022 - Sept 2022",
+        "description": "The Nokia group, through its subsidiary Alcatel Submarine Networks (ASN), is one of the few providers in the world to offer turnkey and fully integrated submarine network solutions. Alcatel Submarine Networks offers a complete range of optical transport solutions and services for terrestrial and submarine networks",
         "details": [
           "Study of needs based on High Level Specifications",
-          "Implementation of unit tests and pre-integration tests"
+          "Implementation of unit tests and pre-integration tests",
+          "Study of needs based on High Level Specifications (HLS) and Evaluation of development loads",
+          "Review of detailed system specifications",
+          "Development implementation with source code configuration management",
+          "Implementation of unit tests and pre-integration tests with associated reports",
+          "Correction/delivery and updating of tickets requested by the project during the FT (Functional Tests) phase",
+          "Correction/delivery and updating of tickets requested by the project during the PNT (Product & Network Tests) phase"
+        ]
+      },
+      {
+        "position": "Java developer",
+        "company": "Nokia - Alcatel Submarine Network",
+        "duration": "July 2022 - Sept 2022",
+        "description": "The Nokia group, through its subsidiary Alcatel Submarine Networks (ASN), is one of the few providers in the world to offer turnkey and fully integrated submarine network solutions. Alcatel Submarine Networks offers a complete range of optical transport solutions and services for terrestrial and submarine networks",
+        "details": [
+          "Study of needs based on High Level Specifications",
+          "Implementation of unit tests and pre-integration tests",
+          "Study of needs based on High Level Specifications (HLS) and Evaluation of development loads",
+          "Review of detailed system specifications",
+          "Development implementation with source code configuration management",
+          "Implementation of unit tests and pre-integration tests with associated reports",
+          "Correction/delivery and updating of tickets requested by the project during the FT (Functional Tests) phase",
+          "Correction/delivery and updating of tickets requested by the project during the PNT (Product & Network Tests) phase"
         ]
       }
     ]

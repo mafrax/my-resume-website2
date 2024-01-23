@@ -46,6 +46,7 @@ const HomePage: React.FC = () => {
             <Box key={index} sx={{ marginBottom: 2 }}>
               <Typography variant="h6">{exp.position} - {exp.company}</Typography>
               <Typography variant="subtitle1">{exp.duration}</Typography>
+              <Typography variant="body1">{exp.description}</Typography>
               <ul>
                 {exp.details.map((detail, detailIndex) => (
                   <li key={detailIndex}>
