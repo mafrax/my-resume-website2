@@ -32,20 +32,18 @@
         ]
       },
       {
-        "position": "Java developer",
-        "company": "Nokia - Alcatel Submarine Network",
-        "duration": "July 2022 - Sept 2022",
-        "description": "The Nokia group, through its subsidiary Alcatel Submarine Networks (ASN), is one of the few providers in the world to offer turnkey and fully integrated submarine network solutions. Alcatel Submarine Networks offers a complete range of optical transport solutions and services for terrestrial and submarine networks",
+        "position": "Java developer - quant analyst",
+        "company": "TOBAM",
+        "duration": "Sept 2017 - June 2020",
+        "description": "Tobam ​​is a portfolio management company for key account clients. The approach recommended by Tobam ​​is to maximize the diversification of its various portfolios in order to reduce the risk. To automate its tasks Tobam ​​has developed its own software which allows to perform not only calculations for the creation and management of TOBAM’s portfolios but also many other tasks such as statistical and mathematical analysis of their assets under management , the company's CRM, the sending of automated emails to the various investors, the recovery of financial data from the Bloomberg trading platform, the generation of daily reports, the analysis of the carbon impact of investments, and many other tasks. As a Java developer I worked in a team of 6 people, and we were in charge of implementing the new features that we were requested from other Tobam teams: Marketing, Compliance, Risk, Research and Trading. We also had to correct any bugs reported to us or modify existing modules to improve their use.",
         "details": [
-          "Study of needs based on High Level Specifications",
+          "In charge of monitoring the generation of reports and automating the generation of new reports",
           "Implementation of unit tests and pre-integration tests",
-          "Study of needs based on High Level Specifications (HLS) and Evaluation of development loads",
+          "Creation of the module and the batch in charge of analyzing the carbon emissions of each portfolio.",
           "Review of detailed system specifications",
-          "Development implementation with source code configuration management",
-          "Implementation of unit tests and pre-integration tests with associated reports",
-          "Correction/delivery and updating of tickets requested by the project during the FT (Functional Tests) phase",
-          "Correction/delivery and updating of tickets requested by the project during the PNT (Product & Network Tests) phase"
-        ]
+          "With research, development of new modules for the statistical analysis of portfolios (example: Fama French, correlation matrix)",
+          "Creation of the module and the batch in charge of the analysis of data from the various statistical analysis modules and grouping of risk indicators according to the constraints set by Tobam."
+          ]
       }
     ]
   }
